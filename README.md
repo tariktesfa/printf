@@ -26,7 +26,7 @@
 👤 **Tarikwa Tesfa**
 
 - GitHub: [@tariktesfa](https://github.com/tariktesfa)
-- Twitter: [@tarikwatesfa](https://twitter.com/tarikwa_tesfa)
+- Twitter: [@tarikwatesfa](https://twitter.com/tarik_tesfa)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/tarikwa-tesfa)
 
 👤 **Dawit Sisay**
