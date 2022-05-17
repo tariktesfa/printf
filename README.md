@@ -1,58 +1,38 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Printf
 
-# Project Name
+> This is an ALX collaboration project
+## Written by
 
-> One paragraph statement about the project.
+- C language
+- Betty linter
+## General Requirement
 
-![screenshot](./app_screenshot.png)
+- All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+- All files should end with a new line
+- A README.md file, at the root of the folder of the project is mandatory
+- Use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+- Not allowed to use global variables
+- No more than 5 functions per file
+- In the following examples, the main.c files are shown as examples.Use them to test the functions, but don’t have to push them to the repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples.
+- The prototypes of all the functions should be included in the header file called main.h
+- Don’t forget to push the header file
+- All your header files should be include guarded
+- Note that we will not provide the _putchar function for this project
+### Test
 
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+- main.c
 ## Authors
 
-👤 **Author1**
+👤 **Tarikwa Tesfa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@tariktesfa](https://github.com/tariktesfa)
+- Twitter: [@tarikwatesfa](https://twitter.com/tarikwa_tesfa)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/tarikwa-tesfa)
 
-👤 **Author2**
+👤 **Dawit Sisay**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@dawitsisayy](https://github.com/DawitSisayy)
+- Twitter: [@Dawitsisay](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
@@ -68,9 +48,4 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
