@@ -21,6 +21,10 @@
 ### Test
 
 - main.c
+
+### Compilation
+
+`$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c`
 ## Authors
 
 👤 **Tarikwa Tesfa**
@@ -47,5 +51,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- ALX Community
 - Hat tip to anyone whose code was used
 
